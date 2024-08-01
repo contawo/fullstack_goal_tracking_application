@@ -72,5 +72,28 @@ I researched online inspiration designs and here is what I found:
 ### Notification inspiration 
 1. [Popup notification](https://za.pinterest.com/pin/626281891958341065/): Notification popup
 
+### Authentication inspiration
+1. [Simple login page](https://za.pinterest.com/pin/711146597424294868/): Both login and signup pages
+
 ## Design inspiration sources
 1. [Pinterest](https://za.pinterest.com/)
+
+# Project design implementation
+I haven't come up with a name for this application. I will just name it Contawo goals tracker in short CGT. But will people be able to remember that and know what it does? Let come up with a new name that will be simple. The name is goltrack without the "a". And since I am not creating a startup or a business, this is okay.
+
+## Tools used for design
+- [Lunacy - the Figma alternative](https://icons8.com/lunacy): Free design software
+
+## Colours
+Since green symbolizes growth, I am going to go for it. I was struggling with the colours, did my research and I found this great [article](https://piktochart.com/blog/green-color-palette-combinations/) with great green colour palettes. So I decided to with these colours:
+1. #003333
+2. #027c68
+3. #b0e892
+4. #009933
+I will share the document of the design style guide that includes everything.
+
+## Logo design
+For the logo, I want it to be as simple as possible but also convey the information about the application. The meaning of the logo: No matter the direction, we move. Which is also a slogan to think about it. I did not think deep about this one, I just went with what came to my head first.
+
+## The design
+Now I can start designing. You can view the [design here](https://lun-za.icons8.com/d/5AMG-4cx9UOKeVrZ63Ophg?page=5QMG-4cx9UOKeVrZ63Ophg&vp=997,-618,3334,2264). If you want to edit, feel free to [email me](awonke@contawo.com), I would love to hear from you.
